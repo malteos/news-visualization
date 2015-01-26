@@ -1,0 +1,4 @@
+UK	England
+SK	Slowakei
+CZ	Tschechien
+US	USA

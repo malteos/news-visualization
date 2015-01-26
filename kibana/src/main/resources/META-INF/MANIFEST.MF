@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Class-Path: commons-lang-2.6.jar lucene-sandbox-4.10.2.jar lucene-anal
+ yzers-common-4.10.2.jar jaxb-api-2.2.7.jar ejml-0.23.jar log4j-1.2.17
+ .jar antlr-runtime-3.5.jar asm-4.1.jar asm-commons-4.1.jar commons-lo
+ gging-1.1.1.jar xml-apis-1.3.03.jar xom-1.2.10.jar stanford-corenlp-3
+ .5.0-models.jar lucene-suggest-4.10.2.jar jackson-core-2.1.3.jar luce
+ ne-queryparser-4.10.2.jar xercesImpl-2.8.0.jar jackson-databind-2.1.3
+ .jar commons-configuration-1.9.jar lucene-spatial-4.10.2.jar lucene-g
+ rouping-4.10.2.jar jackson-annotations-2.1.2.jar lucene-core-4.10.2.j
+ ar lucene-highlighter-4.10.2.jar spatial4j-0.4.1.jar jollyday-0.4.7.j
+ ar xalan-2.7.0.jar elasticsearch-1.4.1.jar lucene-queries-4.10.2.jar 
+ joda-time-2.1.jar lucene-join-4.10.2.jar lucene-memory-4.10.2.jar luc
+ ene-misc-4.10.2.jar stanford-corenlp-3.5.0.jar javax.json-api-1.0.jar
+Main-Class: de.tuberlin.dbpro.news.ImportJson
+
